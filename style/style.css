@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    border: 3px solid black;
+    display: flex;
+}
+
+
+.isiBeranda {
+    background-color: lightgray;
+    width: 100%;
+    border: 3px solid black;
+    padding: 30px;
+}
+
+.fotoberanda {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-box: inherit;
+
+}
